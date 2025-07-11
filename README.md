@@ -1,10 +1,7 @@
-## Hey 👋
 
 I'm a passionate **Full-Stack Developer** and **Graphic Designer** who loves to combine code and visual creativity!
 
 ---
-
-## 🛠️ Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -18,16 +15,6 @@ I'm a passionate **Full-Stack Developer** and **Graphic Designer** who loves to 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
 
 ---
-
-## 📌 About Me
-
-- 💻 Full-Stack Developer focused on building fast, responsive, and accessible web apps.
-- 🎨 Graphic Designer with a passion for clean UI, visual storytelling, and brand identity.
-- 🚀 Blending code and creativity to craft seamless digital experiences.
-
----
-
-## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/colins-o/" target="_blank" rel="nofollow noreferrer">
