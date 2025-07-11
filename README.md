@@ -34,12 +34,3 @@ I'm a passionate **Full-Stack Developer** and **Graphic Designer** who loves to 
     <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" height="20" /> LinkedIn
   </a> &nbsp; 
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDXCODE&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDXCODE&layout=compact&theme=radical" height="150"/>
-</p>
