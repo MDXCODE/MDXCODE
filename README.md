@@ -1,4 +1,4 @@
-## Hey 👋 My Name is Colins
+## Hey 👋
 
 I'm a passionate **Full-Stack Developer** and **Graphic Designer** who loves to combine code and visual creativity!
 
