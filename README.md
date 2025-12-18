@@ -1,5 +1,5 @@
 
-I'm a passionate **Full-Stack Developer** and **Graphic Designer** who loves to combine code and visual creativity!
+I'm a passionate **Full-Stack Developer** and **Graphic Design** hobbyist who loves to combine code and visual creativity!
 
 ---
 
